@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sticker Collage Video"
+  short_description: "Turn narration and media into editable, reviewable sticker-collage videos"
+  default_prompt: "Use $sticker-collage-video to turn my talking-head footage, screenshots, and screen recordings into an editable animated sticker-collage video."
